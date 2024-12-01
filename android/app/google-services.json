@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021612675222",
+    "project_id": "cubitdioflutter",
+    "storage_bucket": "cubitdioflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021612675222:android:b0faed37f43d70f0d9b2b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cubit_dio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXRcAs5BeKMIrSF5C8qMCHVIuvFthNgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
